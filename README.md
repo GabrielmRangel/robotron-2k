@@ -1,2 +1,3 @@
-# robotron-2k
- Curso de JavaScript da Alura Robotron 2k
+# Robotron 2000
+
+> Curso de JavaScript da Alura Robotron 2k
